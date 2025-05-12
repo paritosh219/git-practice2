@@ -1,0 +1,36 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.backup
+*.versionsBackup
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Java bytecode
+*.class
+
+# Logs
+*.log
+
+# Package files produced by packaging
+*.jar
+*.war
+*.ear
+
+# Reports
+surefire-reports/
+jacoco.exec
+*.rpt
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+.DS_Store
